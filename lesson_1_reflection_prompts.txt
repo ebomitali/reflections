@@ -4,3 +4,8 @@ was introduced?
     Because in long file spotting the differences limit the amount 
 	of text to check. Checking code without typo is very boring
 
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Because it allows to fix typos and error introduced over the time by checking
+	previous version. It allow to restore rapidly a working context
