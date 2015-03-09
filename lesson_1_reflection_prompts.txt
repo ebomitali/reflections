@@ -9,3 +9,13 @@ efficient programmer in the long term?
 
     Because it allows to fix typos and error introduced over the time by checking
 	previous version. It allow to restore rapidly a working context
+	
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Choosing commit pro
+	- control version over a possibly great number of files
+	- add message to commit
+	cons
+	- forgot to commit
