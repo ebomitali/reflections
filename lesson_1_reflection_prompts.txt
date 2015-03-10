@@ -19,3 +19,9 @@ docs does?
 	- add message to commit
 	cons
 	- forgot to commit
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    - dev usually involves several files
+	- docs usually involves a single file
