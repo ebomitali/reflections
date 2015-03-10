@@ -30,3 +30,8 @@ How can you use the commands git log and git diff to view the history of files?
 
     git log shows the history of commits, git diff allows to compare different
 	versions of a file
+	
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	using git to assist in development, fallback to allow deliberate steps
+	and recover to working configuration (commit)
