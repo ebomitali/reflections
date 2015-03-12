@@ -12,3 +12,14 @@ More handy than having a lot of file in a commit command
 How can you use the staging area to make sure you have one commit per logical change?
 
 Just add related files and make a commit. However this require discipline from the programmer
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches may serve for new experimental features, different version (on a solo programmer)
+Context switching
+
+How do the diagrams help you visualize the branch structure?
+
+Checking out, creating branches, committing may be very difficult without visualization
+so a tools to automatically generate branch structure would be useful.
+Ow should keep a manual diagram to understand what is going on
