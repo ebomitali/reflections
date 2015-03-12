@@ -2,3 +2,13 @@ What happens when you initialize a repository? Why do you need to do it?
 
 It initializes the data structure used by git.
 To use git
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A temporary depot to group file before a commit.
+This way I may mark multiple file within one commit
+More handy than having a lot of file in a commit command
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Just add related files and make a commit. However this require discipline from the programmer
