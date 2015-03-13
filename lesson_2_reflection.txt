@@ -23,3 +23,8 @@ How do the diagrams help you visualize the branch structure?
 Checking out, creating branches, committing may be very difficult without visualization
 so a tools to automatically generate branch structure would be useful.
 Ow should keep a manual diagram to understand what is going on
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches means applying the changes performed to the files in (temporal) sequence. Really I am not
+sure but it seems plausible
